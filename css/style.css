@@ -1,0 +1,11 @@
+.bordi {
+    border: solid 1px orange;
+    border-radius: 50%;
+}
+
+.stile {
+    display: inline-block;
+    width: 7rem;
+    font-family: sans-serif;
+    
+}
